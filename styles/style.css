@@ -44,6 +44,7 @@ body {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  margin-top: 3px;
 }
 
 .welcome-section .NavBar nav ul li {
@@ -147,7 +148,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
-  top: -10%;
+  top: -8%;
   left: -0.1%;
 }
 
